@@ -17,10 +17,6 @@ This project showcases the use of LangChain to load and process PDF documents, c
 ## Setup
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/vectorstor-in-memory.git
-    cd vectorstor-in-memory
-    ```
 
 2. **Create a virtual environment:**
     ```bash
